@@ -1,4 +1,4 @@
-    //This is the logging format of my CK FlightController Firmware.
+    //This is the logging format of my CK_Flight Firmware.
 
     // LOG 32 Bytes here at each loop
 
